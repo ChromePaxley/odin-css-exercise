@@ -1,0 +1,23 @@
+
+.od_number {
+    background-color: pink;
+    font-style: DejaVu Sans, sans-serif;
+}
+
+.od_number.third {
+ font-size: 24px;
+ font-style: DejaVu Sans, sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+    font-style: DejaVu Sans, sans-serif;
+}
+
+#third {
+    background-color: lightgreen;
+    font-size: 24;
+    font-weight: bold;
+    font-style: DejaVu Sans, sans-serif;
+}
